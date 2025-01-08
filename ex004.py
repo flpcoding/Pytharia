@@ -1,4 +1,7 @@
-num1 = int(input('Digite um número: '))
-num2 = int(input('Digite outro número: '))
-
-print('A soma entre {} e {} é igual a {}'.format(num1, num2, num1 + num2))
+texto = input('Digite algo: ')
+print('{} é do tipo {}', format(texto, type(texto)))
+print(texto.isalnum())
+print(texto.isalpha())
+print(texto.isnumeric())
+print(texto.isupper())
+# e por aí vai...
