@@ -1,0 +1,13 @@
+fator = int(input('Digite o número que deseja saber a tabuada: '))
+
+print(f'{fator} x  0 = {fator * 0 :>2}')
+print(f'{fator} x  1 = {fator * 1 :>2}')
+print(f'{fator} x  2 = {fator * 2 :>2}')
+print(f'{fator} x  3 = {fator * 3 :>2}')
+print(f'{fator} x  4 = {fator * 4 :>2}')
+print(f'{fator} x  5 = {fator * 5 :>2}')
+print(f'{fator} x  6 = {fator * 6 :>2}')
+print(f'{fator} x  7 = {fator * 7 :>2}')
+print(f'{fator} x  8 = {fator * 8 :>2}')
+print(f'{fator} x  9 = {fator * 9 :>2}')
+print(f'{fator} x 10 = {fator * 10 :>2}')
